@@ -10,4 +10,7 @@ Reference
   ##### [GDXR-MD](https://github.com/guodongxiaren/README)  
   
 #### Git  
-  ##### [廖雪峰 Git](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+  ##### [廖雪峰 Git](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)  
+  
+#### Open CourseWare  
+  ##### [cs50](https://cs50.harvard.edu/)
